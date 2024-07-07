@@ -1,5 +1,18 @@
 # Changelog
 
+## [2.3.1](https://github.com/eslint-stylistic/eslint-stylistic/compare/v2.3.0...v2.3.1) (2024-07-07)
+
+
+### Bug Fixes
+
+* **ts:** chunk bundling ([a278468](https://github.com/eslint-stylistic/eslint-stylistic/commit/a27846842778970d2a1d9d91799aec8e233fc840))
+
+
+### Documentation
+
+* **ts/member-delimiter-style:** fix spaces ([#461](https://github.com/eslint-stylistic/eslint-stylistic/issues/461)) ([240006c](https://github.com/eslint-stylistic/eslint-stylistic/commit/240006cd887de265dc33eb027765846bd877bfd2))
+* update project progress ([#449](https://github.com/eslint-stylistic/eslint-stylistic/issues/449)) ([d6d72c8](https://github.com/eslint-stylistic/eslint-stylistic/commit/d6d72c8975f8a9be0e25dd6c41d03d90b00b2a62))
+
 ## [2.3.0](https://github.com/eslint-stylistic/eslint-stylistic/compare/v2.2.2...v2.3.0) (2024-06-25)
 
 
